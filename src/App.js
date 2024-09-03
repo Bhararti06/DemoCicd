@@ -9,7 +9,7 @@ function App() {
     <div className="App">
       <div className="container">
         <h1>Welcome to the Simple CI/CD Demo!</h1>
-        <p>This is a simple webpage for testing your CI/CD pipeline with gihub Action.</p>
+        <p>This is a simple webpage for testing your CI/CD  with gihub Action.</p>
         <button onClick={showAlert}>Click Me!</button>
       </div>
     </div>
